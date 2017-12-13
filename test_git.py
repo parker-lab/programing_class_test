@@ -1,1 +1,1 @@
-print("project1 is started")
+print("project1 is continuing")
